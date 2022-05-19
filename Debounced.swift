@@ -1,6 +1,5 @@
 //
 //  Debounced.swift
-//  Wristcam
 //
 //  Created by Ariel Steiner on 03/09/2021.
 //  Copyright © 2021. All rights reserved.
